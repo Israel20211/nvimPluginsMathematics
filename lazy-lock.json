@@ -1,0 +1,13 @@
+{
+  "R.nvim": { "branch": "main", "commit": "e1655b5616dff71edae0f52a651afc8d7433037c" },
+  "coc.nvim": { "branch": "master", "commit": "baac60ac1676cd5640648af9f07c15be24041a3e" },
+  "jupytext.vim": { "branch": "master", "commit": "f15aff4515eb6a09afa0d7f41eb23be53c1e2e14" },
+  "lazy.nvim": { "branch": "main", "commit": "7527af40ddd4a93a02911be570b32609b9d4ea53" },
+  "nerdtree": { "branch": "master", "commit": "9b465acb2745beb988eff3c1e4aa75f349738230" },
+  "nvim-lsp-installer": { "branch": "main", "commit": "17e0bfa5f2c8854d1636fcd036dc8284db136baa" },
+  "nvim-lspconfig": { "branch": "master", "commit": "66bc018936c6ff76beb75f89d986af6442db4001" },
+  "nvim-treesitter": { "branch": "master", "commit": "55ae57419504432ba9c229ea9b03bad621ab9ef7" },
+  "rose-pine": { "branch": "main", "commit": "00ec4cec924b624920baac9d42eac02e1efcae76" },
+  "vim-buftabline": { "branch": "master", "commit": "73b9ef5dcb6cdf6488bc88adb382f20bc3e3262a" },
+  "vimtex": { "branch": "master", "commit": "9f6a5bb0a9c9f1542fe88dc07511ce8401242e2a" }
+}
