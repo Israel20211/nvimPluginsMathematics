@@ -58,5 +58,5 @@ vim.cmd("nnoremap <C-t> :NERDTreeToggle<CR>")
 vim.cmd("nnoremap <C-l> :bnext<CR>")
 vim.cmd("nnoremap <C-h> :bprev<CR>")
 vim.cmd("let g:jupytext_fmt = 'py'")
-vim.cmd("let g:coc_filetype_map = {'tex': 'latex'}")
+--vim.cmd("let g:coc_filetype_map = {'tex': 'latex'}")
 require("nvim-lsp-installer").setup {}
